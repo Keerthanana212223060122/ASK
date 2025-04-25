@@ -60,5 +60,5 @@ plt.show()
 The experiment on ASK modulation and demodulation was successfully implemented in Python. The demodulated data matches the original binary input, validating the working of the ASK technique.
 
 ### Hardware experiment output waveform:
+![WhatsApp Image 2025-04-25 at 13 05 40_358b80c2](https://github.com/user-attachments/assets/229faea1-f9c1-47cd-a287-c7c33c513030)
 
-![WhatsApp Image 2025-04-24 at 20 00 47_417dbc97](https://github.com/user-attachments/assets/f6b445d7-d54b-44ed-b63d-12209f4bd7a6)
